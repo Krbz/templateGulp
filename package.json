@@ -1,0 +1,22 @@
+{
+	"name": "empty",
+	"version": "0.0.1",
+	"devDependencies": {
+		"csscomb": "*",
+		"gulp": "*",
+		"gulp-autoprefixer": "~2.3.1",
+		"gulp-connect": "*",
+		"gulp-concat": "*",
+		"gulp-csscomb": "*",
+		"gulp-less": "*",
+		"gulp-load-plugins": "*",
+		"gulp-plumber": "*",
+		"gulp-sourcemaps": "*",
+		"gulp-uglify": "*",
+		"gulp-watch": "*",
+		"gulp-file-include": "*",
+		"gulp-prettify": "*",
+		"gulp-purifycss": "*",
+		"gulp-babel": "*"
+	}
+}
